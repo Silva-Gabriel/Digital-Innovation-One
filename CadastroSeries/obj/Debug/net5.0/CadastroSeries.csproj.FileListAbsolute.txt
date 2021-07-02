@@ -1,0 +1,16 @@
+C:\WorkSpace\Projetos-pessoais\CadastroSeries\obj\Debug\net5.0\CadastroSeries.csprojAssemblyReference.cache
+C:\WorkSpace\Projetos-pessoais\CadastroSeries\obj\Debug\net5.0\CadastroSeries.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkSpace\Projetos-pessoais\CadastroSeries\obj\Debug\net5.0\CadastroSeries.AssemblyInfoInputs.cache
+C:\WorkSpace\Projetos-pessoais\CadastroSeries\obj\Debug\net5.0\CadastroSeries.AssemblyInfo.cs
+C:\WorkSpace\Projetos-pessoais\CadastroSeries\obj\Debug\net5.0\CadastroSeries.csproj.CoreCompileInputs.cache
+C:\WorkSpace\Projetos-pessoais\CadastroSeries\bin\Debug\net5.0\CadastroSeries.exe
+C:\WorkSpace\Projetos-pessoais\CadastroSeries\bin\Debug\net5.0\CadastroSeries.deps.json
+C:\WorkSpace\Projetos-pessoais\CadastroSeries\bin\Debug\net5.0\CadastroSeries.runtimeconfig.json
+C:\WorkSpace\Projetos-pessoais\CadastroSeries\bin\Debug\net5.0\CadastroSeries.runtimeconfig.dev.json
+C:\WorkSpace\Projetos-pessoais\CadastroSeries\bin\Debug\net5.0\CadastroSeries.dll
+C:\WorkSpace\Projetos-pessoais\CadastroSeries\bin\Debug\net5.0\ref\CadastroSeries.dll
+C:\WorkSpace\Projetos-pessoais\CadastroSeries\bin\Debug\net5.0\CadastroSeries.pdb
+C:\WorkSpace\Projetos-pessoais\CadastroSeries\obj\Debug\net5.0\CadastroSeries.dll
+C:\WorkSpace\Projetos-pessoais\CadastroSeries\obj\Debug\net5.0\ref\CadastroSeries.dll
+C:\WorkSpace\Projetos-pessoais\CadastroSeries\obj\Debug\net5.0\CadastroSeries.pdb
+C:\WorkSpace\Projetos-pessoais\CadastroSeries\obj\Debug\net5.0\CadastroSeries.genruntimeconfig.cache

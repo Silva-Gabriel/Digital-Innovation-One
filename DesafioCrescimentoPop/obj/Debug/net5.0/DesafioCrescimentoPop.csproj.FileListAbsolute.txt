@@ -1,0 +1,16 @@
+C:\DesafiosDIO\DesafioCrescimentoPop\bin\Debug\net5.0\DesafioCrescimentoPop.exe
+C:\DesafiosDIO\DesafioCrescimentoPop\bin\Debug\net5.0\DesafioCrescimentoPop.deps.json
+C:\DesafiosDIO\DesafioCrescimentoPop\bin\Debug\net5.0\DesafioCrescimentoPop.runtimeconfig.json
+C:\DesafiosDIO\DesafioCrescimentoPop\bin\Debug\net5.0\DesafioCrescimentoPop.runtimeconfig.dev.json
+C:\DesafiosDIO\DesafioCrescimentoPop\bin\Debug\net5.0\DesafioCrescimentoPop.dll
+C:\DesafiosDIO\DesafioCrescimentoPop\bin\Debug\net5.0\ref\DesafioCrescimentoPop.dll
+C:\DesafiosDIO\DesafioCrescimentoPop\bin\Debug\net5.0\DesafioCrescimentoPop.pdb
+C:\DesafiosDIO\DesafioCrescimentoPop\obj\Debug\net5.0\DesafioCrescimentoPop.csprojAssemblyReference.cache
+C:\DesafiosDIO\DesafioCrescimentoPop\obj\Debug\net5.0\DesafioCrescimentoPop.GeneratedMSBuildEditorConfig.editorconfig
+C:\DesafiosDIO\DesafioCrescimentoPop\obj\Debug\net5.0\DesafioCrescimentoPop.AssemblyInfoInputs.cache
+C:\DesafiosDIO\DesafioCrescimentoPop\obj\Debug\net5.0\DesafioCrescimentoPop.AssemblyInfo.cs
+C:\DesafiosDIO\DesafioCrescimentoPop\obj\Debug\net5.0\DesafioCrescimentoPop.csproj.CoreCompileInputs.cache
+C:\DesafiosDIO\DesafioCrescimentoPop\obj\Debug\net5.0\DesafioCrescimentoPop.dll
+C:\DesafiosDIO\DesafioCrescimentoPop\obj\Debug\net5.0\ref\DesafioCrescimentoPop.dll
+C:\DesafiosDIO\DesafioCrescimentoPop\obj\Debug\net5.0\DesafioCrescimentoPop.pdb
+C:\DesafiosDIO\DesafioCrescimentoPop\obj\Debug\net5.0\DesafioCrescimentoPop.genruntimeconfig.cache
